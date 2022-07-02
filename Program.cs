@@ -5,7 +5,6 @@ string[] array = { "hello", "2", "world", ":-)", "world" };
 
 string[] SemplingItemArrayByLenght(string[] arr, int lenght)
 {
-    string position = string.Empty;
     int count = 0;
 
     for (int i = 0; i < arr.Length; i++)
